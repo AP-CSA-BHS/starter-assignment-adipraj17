@@ -1,4 +1,8 @@
-# :wave: The Basics of GitHub 
+# :wave: The Basics of GitHub!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+// Wow GitHub is amazing.
+// I Love GitHub
+// GitHub <3 VS Code
+
 
 ## 🤓 Course overview and learning outcomes 
 
